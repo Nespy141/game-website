@@ -35,7 +35,7 @@ img {
 }
 
 .container{
-    width: 1400px;
+    max-width: 1400px; width: 90%;
     margin: 0 auto;
 }
 
@@ -238,7 +238,7 @@ header nav ul li.btn a:hover {
 /* IMG section */
 
 .features {
-    background: url('/img/BG.png') no-repeat center center fixed;
+    background: url('img/BG.png') no-repeat center center fixed;
     background-size: cover;
     padding: 100px 0;
 }
